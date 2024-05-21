@@ -1,0 +1,36 @@
+Socialism (Left): The ownership or control of the property should be public-owned.
+Center: A moderate stance advocating for a mix of public and private ownership, seeking a balanced approach to property control and means of production.
+Capitalism (Right): The ownership of the means of production should private-owned.
+Centralism (Left): The power should be concentrated in the central authority.
+Center: A moderate stance advocating for a balanced power structure, combining elements of central authority and power distribution.
+Federalism (Right): The power should be distributed between a central authority and the constituents.
+Command Economy (Left): The government should take responsibility for making most of the important economic decisions.
+Center: A moderate stance advocating for combining government intervention in important economic decisions with the role of individuals, organizations, and market interactions.
+Market Economy (Right): Economic decisions should be guided by the interactions of individuals, organization, companies.
+Outcome Equality (Left): All groups should receive the same treatment or distribution.
+Center: A moderate position advocating for an economic system that balances equal treatment and access to resources with considerations for distribution outcomes among different groups.
+Opportunity Equality (Right): All groups should have equal access to resources without concern for distribution outcomes.
+Ethical Liberalism (Left): The mainstream culture should support sexual liberation, same sex marriage, abortion, and other related issues.
+Center: The mainstream culture should consider individual freedoms and cultural norms while promoting inclusivity dialogue on controversial issues.
+Ethical Conservatism (Right): The mainstream culture should restrict individuals’ behavior based on moral norms and religious doctrines.
+Secularism (Left): The religious power and state power should be separated.
+Center: A moderate position advocating for a balanced and cooperative relationship between the church and state, respecting both religious autonomy and the principles of secular governance.
+Caesaropapism (Right): The religious power and state power should be unified.
+Collectivism (Left): An individual should be seen as subordinate to a social collective.
+Center: A moderate stance that recognizes the importance of both social collectives and individual autonomy in shaping and preserving a diverse and inclusive society.
+Individualism (Right): All values should be human-centred and the individual should be of supreme importance.
+Globalism (Left): Foreign policy should be planned with an international perspective.
+Center: A moderate position that balances international cooperation and national interests, recognizing the value of engagement while cautiously managing political and economic entanglements with other countries.
+Isolationism (Right): Political and economic entanglements with other countries should be avoided.
+Militarism (Left): It is necessary to use strong armed forces to gain political or economic advantages.
+Center: A moderate stance that recognizes the need for armed defense and security while prioritizing non-violent resolution for conflicts.
+Pacifism (Right): All types of violence between countries are incorrect.
+Revolutionism (Left): It is necessary to take direct and noticeable action to achieve social goals.
+Center: A moderate position that advocates combining direct action when necessary with a recognition of the value of gradual and sustainable change to achieve social goals.
+Reformism (Right): The social changes should take place in a gradual way.
+Result Justice (Left): People should be fairly distributed and treated in various social activities.
+Center: A moderate stance that seeks a balance between fair distribution and fair decision-making, considering both the outcomes and procedure of justice.
+Procedural Justice (Right): The authorities should make fair decisions without concern for the results.
+Social Responsibility (Left): There should be a greater emphasis on fulfilling individual responsibilities.
+Center: A moderate position that recognizes the importance of both fulfilling individual responsibilities and protecting individual rights in an equitable manner.
+Individual Right (Right): There should be a greater emphasis on protecting individual rights.
